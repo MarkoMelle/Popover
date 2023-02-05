@@ -1,1 +1,1 @@
-[![CI](https://github.com/MarkoMelle/Popovers/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/MarkoMelle/Popovers/actions/workflows/main.yml)
+[![Popovers](https://github.com/MarkoMelle/Popover/actions/workflows/main.yml/badge.svg)](https://github.com/MarkoMelle/Popover/actions/workflows/main.yml)

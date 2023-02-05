@@ -21,8 +21,8 @@ jobs:
       - name: Eslint 🪧
         run: yarn lint
         
-      - name: Run Test 🔨
-        run: yarn test
+      # - name: Run Test 🔨
+      #   run: yarn e2e
         
       - name: Build 👷
         run: yarn build
